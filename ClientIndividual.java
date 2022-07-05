@@ -1,4 +1,4 @@
-package substitutiva;
+package managingStakeholders;
 
 import java.util.Scanner;
 

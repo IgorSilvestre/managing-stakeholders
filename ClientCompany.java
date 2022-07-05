@@ -1,4 +1,4 @@
-package substitutiva;
+package managingStakeholders;
 
 public class ClientCompany {
     String name;

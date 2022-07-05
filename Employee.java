@@ -1,4 +1,4 @@
-package substitutiva;
+package managingStakeholders;
 
 public class Employee {
     String name;
